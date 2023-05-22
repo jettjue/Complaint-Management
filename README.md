@@ -48,4 +48,12 @@ Verify that the complaints.txt file has write permissions in the current directo
 
 ## Credits and Acknowledgments
 
-This project was developed by Jett Jue. Special thanks to the Python community and the Tkinter library for providing the tools and resources necessary for this project.
+This project was developed by Jett Jue. Special thanks to my professor, the Python community and the Tkinter library for providing the resources necessary for this project.
+
+## Changelog
+
+May 20, 2023 v1.0: Initial version of the project.
+
+## News
+
+No recent news or updates about the project.
